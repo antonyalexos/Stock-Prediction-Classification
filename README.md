@@ -1,4 +1,4 @@
-#Stock-Prediction-Classification
+<h2>Stock-Prediction-Classification</h2>
 
 This repository is the implementation of the final project for the course [ECE454 Machine Learning for Data Science and Analytics](https://www.e-ce.uth.gr/studies/undergraduate/courses/ece454/?lang=en).
 The overall target is to predict the Goldman Sachs stock. The main algorith that we use fo this task is the LSTM. We ensure the quality of the algorithms by implementing a gain metric functions, which tells us how much we gain, if we trade every day based on the prediction of the algorithm.
